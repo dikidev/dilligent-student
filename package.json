@@ -1,0 +1,24 @@
+{
+  "name": "dilligent-student",
+  "version": "1.0.0",
+  "description": "Working smart not hard. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikidev/dilligent-student.git"
+  },
+  "author": "Akshay Saini & diki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikidev/dilligent-student/issues"
+  },
+  "homepage": "https://github.com/dikidev/dilligent-student#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "simple-git": "^2.26.0"
+  }
+}
